@@ -3,3 +3,6 @@ Quantum machine learning has the potential to enable advances in artificial inte
 
 # How to run
 Quite simple: the Jupyter Notebook file contains all the code, and just needs to be placed in the same folder as the function.py file (which contains all the helper functions). And that's it! Depending on the dataset, you might need to adjust the parameters inside the main Jupyter Notebook
+
+# Link to the original paper
+https://arxiv.org/abs/2308.06807
